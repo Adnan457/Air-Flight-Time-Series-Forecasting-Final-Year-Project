@@ -1,0 +1,2 @@
+# Air-Flight-Time-Series-Forecasting-Final-Year-Project
+Unlocking the Skies: Predicting Air Flight Prices with Machine Learning and Deep Learning 🛫  Greetings, LinkedIn community! 👋 As I near the culmination of my academic journey, I am thrilled to share with you a glimpse into my final year project that merges cutting-edge technology with the realm of travel and exploraters to make informed decisi
